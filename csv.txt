@@ -1,0 +1,11 @@
+jcasas,docents,jordi.casas@itb.cat
+jdoe,staff,john.doe@example.com
+msmith,students,mary.smith@university.edu
+ksanchez,faculty,karen.sanchez@school.org
+rwilliams,admin,robert.williams@adminmail.com
+llopez,docents,luis.lopez@teachingplace.org
+pgomez,employees,pablo.gomez@workplace.com
+tsmith,teachers,tina.smith@educenter.net
+ahernandez,staff,ana.hernandez@organization.com
+mlee,managers,maria.lee@corporation.biz
+csantos,academics,carlos.santos@educational.org
